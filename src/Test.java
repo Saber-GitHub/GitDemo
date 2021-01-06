@@ -1,3 +1,3 @@
 public class Test {
-    private int branch1;
+    private int branch2;
 }
